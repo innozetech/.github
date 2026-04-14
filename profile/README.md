@@ -1,5 +1,5 @@
 <!--
-  KEYWORDS: Innoze, Innoze Dev, InnozeDev, Innoze Tech Solutions,
+  KEYWORDS: Innoze, Innoze Tech, Innoze Tech Solutions,
   software development company Pakistan, mobile app development Pakistan,
   web development company, AI automation, UI UX design agency, SEO services Pakistan,
   MVP startup development, MERN stack developer, Flutter development, custom software Pakistan,
@@ -8,14 +8,14 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/innozeDev/innozeDev/blob/f31cda0a3df8f4049382c3420b6677b386a2b9ce/github%20banner.jpeg" alt="Innoze Dev — Software Development Company Pakistan | We Build Digital Solutions That Grow Your Business" width="100%" />
+  <img src="https://github.com/innozeDev/innozeDev/blob/f31cda0a3df8f4049382c3420b6677b386a2b9ce/github%20banner.jpeg" alt="Innoze — Software Development Company Pakistan | We Build Digital Solutions That Grow Your Business" width="100%" />
 </p>
 
 <h1 align="center">Innoze</h1>
 <h3 align="center">Software Development &nbsp;·&nbsp; Mobile Apps &nbsp;·&nbsp; AI Automation &nbsp;·&nbsp; UI/UX Design &nbsp;·&nbsp; SEO &nbsp;·&nbsp; MVP for Startups</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Software+Development+Company;Mobile+App+Development+(iOS+%26+Android);AI+%26+Automation+Solutions;UI%2FUX+Design+%26+Branding;SEO+%26+Digital+Growth;MVP+for+Startups;Web+Applications+%26+SaaS+Platforms;Your+Digital+Innovation+Partner" alt="Innoze Dev — Digital Innovation Company" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Software+Development+Company;Mobile+App+Development+(iOS+%26+Android);AI+%26+Automation+Solutions;UI%2FUX+Design+%26+Branding;SEO+%26+Digital+Growth;MVP+for+Startups;Web+Applications+%26+SaaS+Platforms;Your+Digital+Innovation+Partner" alt="Innoze — Digital Innovation Company" />
 </div>
 
 <br/>
@@ -31,9 +31,9 @@
 
 ---
 
-## About Innoze Dev
+## About Innoze
 
-**Innoze Dev** is the official development organization of **Innoze** a results-driven digital company building smart, scalable, and high-performance digital products for businesses worldwide.
+**Innoze** is a results-driven digital company building smart, scalable, and high-performance digital products for businesses worldwide.
 
 We are a dedicated team of developers, designers, AI engineers, and digital growth specialists who deliver **complete digital solutions** under one roof. Our clients range from **early-stage startups** launching their first MVP to **established businesses** scaling their digital presence.
 
@@ -62,7 +62,7 @@ We are a dedicated team of developers, designers, AI engineers, and digital grow
 |  **Innovation** | We embrace emerging technologies to engineer future-ready solutions |
 |  **Agility** | We move fast, adapt quickly, and deliver without compromising quality |
 |  **Client-Centricity** | Every decision we make is driven by our client's success and growth |
-|  **Reliability** | Our commitments are our contracts  we deliver what we promise |
+|  **Reliability** | Our commitments are our contracts — we deliver what we promise |
 
 ---
 
@@ -125,7 +125,7 @@ We offer **end-to-end digital services** that cover everything your business nee
 
 ---
 
-## 🌟 Why Choose Innoze Dev?
+## 🌟 Why Choose Innoze?
 
 -  **You don't need to know tech** | we handle everything, you see results
 -  **Startup-friendly** | we understand tight budgets and fast deadlines
@@ -143,7 +143,7 @@ We offer **end-to-end digital services** that cover everything your business nee
 
 > Whether you have a million-dollar idea or a business problem to solve
 >
-> **Innoze Dev is here to build it, design it, and grow it with you.**
+> **Innoze is here to build it, design it, and grow it with you.**
 
 <br/>
 
