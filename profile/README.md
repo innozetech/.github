@@ -11,7 +11,7 @@
   <img src="https://github.com/innozeDev/innozeDev/blob/f31cda0a3df8f4049382c3420b6677b386a2b9ce/github%20banner.jpeg" alt="Innoze Dev — Software Development Company Pakistan | We Build Digital Solutions That Grow Your Business" width="100%" />
 </p>
 
-<h1 align="center">Innoze Dev</h1>
+<h1 align="center">Innoze</h1>
 <h3 align="center">Software Development &nbsp;·&nbsp; Mobile Apps &nbsp;·&nbsp; AI Automation &nbsp;·&nbsp; UI/UX Design &nbsp;·&nbsp; SEO &nbsp;·&nbsp; MVP for Startups</h3>
 
 <div align="center">
