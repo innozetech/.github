@@ -1,14 +1,23 @@
 <!--
-  SEO KEYWORDS: Innoze, Innoze Tech, Innoze Tech Solutions, InnozeTech, innozetech,
-  software development company Pakistan, mobile app development Pakistan,
-  web development company Pakistan, AI automation Pakistan, UI UX design agency Pakistan,
-  SEO services Pakistan, MVP startup Pakistan, MERN stack developer Pakistan,
-  Flutter app development Pakistan, custom software Pakistan, digital agency Pakistan,
-  software house Pakistan, full stack developer Pakistan, NestJS developer Pakistan,
-  React developer Pakistan, Node.js Pakistan, software company Karachi,
-  hire developer Pakistan, outsource software development Pakistan,
-  healthcare management system, job portal MERN, ecommerce platform MERN,
-  car rental system, info.innoze@gmail.com
+  SEO KEYWORDS: Innoze, Innoze Tech, Innoze Tech Solutions, InnozeTech,
+  innoze github, innoze tech github, innozetech github, innoze tech solutions github,
+  software development company Pakistan, software development company Karachi,
+  mobile app development Pakistan, mobile app development Karachi,
+  web development company Pakistan, web development company Karachi,
+  AI automation Pakistan, UI UX design agency Pakistan, UI UX design Karachi,
+  SEO services Pakistan, MVP startup development Pakistan,
+  MERN stack developer Pakistan, MERN stack developer Karachi,
+  Flutter development Pakistan, custom software Pakistan,
+  digital agency Pakistan, digital agency Karachi,
+  software house Pakistan, software house Karachi,
+  app development company Pakistan, app development Karachi,
+  React developer Pakistan, Node.js development Pakistan,
+  full stack developer Pakistan, full stack developer Karachi,
+  tech company Pakistan, tech company Karachi,
+  hire developer Pakistan, outsource software Pakistan,
+  e-commerce development Pakistan, healthcare app Pakistan,
+  job portal development Pakistan, car rental system Pakistan,
+  info.innoze@gmail.com
 -->
 
 <p align="center">
@@ -146,46 +155,23 @@ A full-stack car rental system where users can browse, filter, and book vehicles
 
 ---
 
-## 📬 Connect With Us
+## 🗂️ Portfolio
 
-<p align="left">
-  <a href="https://www.linkedin.com/company/innoze" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="Innoze Tech LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/innoze" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50" width="50" alt="Innoze Tech Facebook" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/innoze" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" width="50" alt="Innoze Tech Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@innoze" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="50" width="50" alt="Innoze Tech YouTube" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.pinterest.com/innoze" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" height="50" alt="Innoze Tech Pinterest" />
-  </a>
-</p>
+> 🔗 **Portfolio website coming soon** — explore our pinned repositories above or reach out directly to see full case studies.
 
 ---
 
-<div align="center">
+## 💬 Let's Work Together
 
-### 💬 Have a Project in Mind?
+Have a project idea or a business problem to solve? Whether it's a startup MVP, a business platform, or an AI-powered tool — **Innoze Tech is here to build it with you.**
 
-> Whether you have a million-dollar idea or a business problem to solve —
->
-> **Innoze Tech Solutions is here to build it, design it, and grow it with you.**
-
+<p align="center">
+  <a href="mailto:info.innoze@gmail.com">
+    <img src="https://img.shields.io/badge/📩_Email_Us-info.innoze@gmail.com-0EA5E9?style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/innoze-tech" target="_blank">
+    <img src="https://img.shields.io/badge/🏢_Company_Profile-innoze--tech-0284C7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 <br/>
-
-**📩 Reach out &nbsp;·&nbsp; info.innoze@gmail.com**
-
-<br/>
-
-<i>"Great software is not just written — it is engineered with purpose, precision, and passion."</i>
-
-</div>
