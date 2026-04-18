@@ -53,7 +53,7 @@
 
 ---
 
-## 🏢 About Innoze Tech Solutions
+## About Innoze Tech Solutions
 
 **Innoze Tech Solutions** is a results-driven software development company based in **Karachi, Pakistan**, building smart, scalable, and high-performance digital products for businesses worldwide.
 
@@ -81,12 +81,12 @@ We are a dedicated team of **developers, designers, AI engineers, and digital gr
 
 | Value | Statement |
 |:------|:----------|
-| 🎯 **Excellence** | We hold ourselves to the highest standard in everything we build |
-| 🤝 **Integrity** | Full transparency in communication, pricing, and delivery |
-| 💡 **Innovation** | We embrace emerging technologies to engineer future-ready solutions |
-| ⚡ **Agility** | We move fast, adapt quickly, and deliver without compromising quality |
-| 🌍 **Client-Centricity** | Every decision is driven by our client's success and growth |
-| 🔒 **Reliability** | Our commitments are our contracts — we deliver what we promise |
+| **Excellence** | We hold ourselves to the highest standard in everything we build |
+| **Integrity** | Full transparency in communication, pricing, and delivery |
+| **Innovation** | We embrace emerging technologies to engineer future-ready solutions |
+| **Agility** | We move fast, adapt quickly, and deliver without compromising quality |
+| **Client-Centricity** | Every decision is driven by our client's success and growth |
+| **Reliability** | Our commitments are our contracts — we deliver what we promise |
 
 ---
 
@@ -96,48 +96,40 @@ We offer **end-to-end digital services** that cover everything your business nee
 
 | Service | What You Get |
 |:--------|:-------------|
-| 💻 **Software Development** | Custom web apps, SaaS platforms & business dashboards built to scale |
-| 📱 **Mobile App Development** | iOS & Android apps your users will actually love to use |
-| 🤖 **AI & Automation** | Smart workflows, intelligent chatbots & AI tools that save time & money |
-| 🎨 **UI/UX Design** | Clean, intuitive designs that convert visitors into loyal customers |
-| 📈 **SEO** | Rank higher on Google & drive real organic traffic to your business |
-| 🚀 **MVP for Startups** | Launch your idea fast with a lean, investor-ready product |
+| **Software Development** | Custom web apps, SaaS platforms & business dashboards built to scale |
+| **Mobile App Development** | iOS & Android apps your users will actually love to use |
+| **AI & Automation** | Smart workflows, intelligent chatbots & AI tools that save time & money |
+| **UI/UX Design** | Clean, intuitive designs that convert visitors into loyal customers |
+| **SEO** | Rank higher on Google & drive real organic traffic to your business |
+| **MVP for Startups** | Launch your idea fast with a lean, investor-ready product |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Prescripto — Healthcare Management System
+###  Prescripto — Healthcare Management System
 A production-ready full-stack healthcare platform enabling patients to book doctor appointments, manage digital prescriptions, and track clinic visits — with dedicated portals for Patients, Doctors, and Admins.
-
-**Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS · JWT · Cloudinary · Vite
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://prescripto-frontend-eosin.vercel.app/)
 
 ---
 
-### 💼 MERN Job Portal — Full Stack Recruitment Platform
+###  Job Portal — Full Stack Recruitment Platform
 A comprehensive job board connecting job seekers with employers — job postings, application management, and full recruitment workflow for both candidates and hiring companies.
-
-**Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS · Vite
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://mern-job-portal-frontend-theta.vercel.app/)
 
 ---
 
-### 🛍️ Forever — Full Stack E-Commerce Platform
+### Forever — Full Stack E-Commerce Platform
 A modern e-commerce platform with user authentication, shopping cart, product filtering, admin dashboard, order tracking, and cash on delivery support.
-
-**Stack:** React · Node.js · Express.js · MongoDB · Cloudinary · JWT · Tailwind CSS · Vite
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://forever-frontend-tau-sooty.vercel.app/)
 
 ---
 
-### 🚗 Car Rental Booking Platform
+###  Car Rental Booking Platform
 A full-stack car rental system — browse, filter, and book vehicles, while owners manage listings, bookings, and revenue in one seamless platform.
-
-**Stack:** React · Node.js · Express.js · MongoDB · ImageKit · JWT · Tailwind CSS · Vite
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://car-rental-frontend-fawn.vercel.app/)
 
@@ -145,13 +137,13 @@ A full-stack car rental system — browse, filter, and book vehicles, while owne
 
 ## 🌟 Why Choose Innoze Tech Solutions?
 
-- ✅ **You don't need to know tech** — we handle everything, you see results
-- ✅ **Startup-friendly** — we understand tight budgets and fast deadlines
-- ✅ **End-to-end delivery** — from idea to launch, one team handles it all
-- ✅ **Clean code & best practices** — built to last, not just to demo
-- ✅ **AI-powered solutions** — we bring modern intelligence to every project
-- ✅ **Transparent communication** — no ghost, no delay, no surprises
-- ✅ **Global standards, local understanding** — world-class quality from Karachi, Pakistan
+-  **You don't need to know tech** — we handle everything, you see results
+-  **Startup-friendly** — we understand tight budgets and fast deadlines
+-  **End-to-end delivery** — from idea to launch, one team handles it all
+-  **Clean code & best practices** — built to last, not just to demo
+-  **AI-powered solutions** — we bring modern intelligence to every project
+-  **Transparent communication** — no ghost, no delay, no surprises
+-  **Global standards, local understanding** — world-class quality from Karachi, Pakistan
 
 ---
 
